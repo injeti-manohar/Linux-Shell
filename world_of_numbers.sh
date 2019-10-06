@@ -1,7 +1,7 @@
-read a
-read b
+read x
+read y
 
-echo $a+$b | bc
-echo $a-$b | bc
-echo $a\*$b | bc
-echo 'scale=0;'$a/$b | bc
+echo $((x + y))
+echo $((x - y))
+echo $((x * y))
+echo $((x / y))
