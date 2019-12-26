@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem
+
 read num
 
 case $num in

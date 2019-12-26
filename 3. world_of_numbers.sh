@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem
+
 read x
 read y
 
